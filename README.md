@@ -27,7 +27,8 @@ O Buscador de CEP é um projeto desenvolvido com React, uma biblioteca JavaScrip
 5. Execute o comando `npm start` para iniciar o servidor de desenvolvimento.
 6. Abra o navegador e acesse o endereço `http://localhost:3000` para visualizar o aplicativo.
 
-##Deploy
+## Deploy
+
 [Vercel](https://buscador-gamma.vercel.app/)
 
 
